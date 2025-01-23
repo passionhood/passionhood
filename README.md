@@ -7,15 +7,7 @@ ___
 ___
 
 ## About Me 👋
-I am an **Assistant Teaching Professor** and **Director of Undergraduate Studies - Minor in Data Science** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **humanities** 📖, combining technical expertise with a deep interest in theology and biblical studies.
-
-___
-## Education 🎓
-- **Doctor of Philosophy (In Progress)** - Vrije Universiteit Amsterdam
-- **Master of Science in Data Science** - University of Notre Dame
-- **Master of Theological Studies** - University of Notre Dame
-- **Master of Divinity** - Gordon-Conwell Theological Seminary
-- **Bachelor of Arts** - North Central University
+I am a **student** studying **Finance - Minor in Data Science** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **finance** 📖, applying analytical tools and quantitative methods to drive innovative solutions for complex financial challenges.
 
 ___
 ## Certifications 📜
