@@ -10,28 +10,6 @@ ___
 I am a **student** studying **Finance - Minor in Data Science** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **finance** 📖, applying analytical tools and quantitative methods to drive innovative solutions for complex financial challenges.
 
 ___
-## Certifications 📜
-<details><summary>
-🧠 Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
-</summary></details>
-
-<details><summary>
-<a href="https://coursera.org/share/374bbba40c6456b1f397e0cd05d2fccf">🌐 IBM Data Science Professional Certificate</a> – <em>Coursera</em> (May 2020)
-</summary>
-<br>
-<strong>150 Hours of Coursework and Projects</strong>
-<ol>
-  <li>What is Data Science?</li>
-  <li>Tools for Data Science</li>
-  <li>Data Science Methodology</li>
-  <li>Python for Data Science and AI</li>
-  <li>Databases and SQL for Data Science with Python</li>
-  <li>Data Analysis, Visualization, and Machine Learning with Python</li>
-  <li><a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston">Applied Data Science Capstone</a></li>
-</ol>
-</details>
-
-___
 ## Languages and Tools 🛠️
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/RStudio.png"></code>
