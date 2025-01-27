@@ -1,10 +1,3 @@
-<code><img height="200px" src="assets/thomas-bormans-IHQHXj3jv6E-unsplash.jpg"></code>
-
-<span>Photo by <a href="https://unsplash.com/@thomasbormans?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Bormans</a> on <a href="https://unsplash.com/s/photos/old-books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-___
-<a href="https://github.com/dmsmiley/Smiley_CV">📄 See Full CV</a>
-___
 
 ## About Me 👋
 I am a **student** studying **Finance - Minor in Data Science** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **finance** 📖, applying analytical tools and quantitative methods to drive innovative solutions for complex financial challenges.
