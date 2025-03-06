@@ -11,6 +11,7 @@ ___
 
 ## Skills 🛠
 Programming Languages: Python, R, SQL
+
 Tools & Frameworks: Chainforge, Jupyter Notebook, VS Code, Seaborn, & Linux 
 Other: Data analysis, financial modeling
 
