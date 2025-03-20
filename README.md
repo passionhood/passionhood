@@ -22,7 +22,7 @@ This project focuses on cleaning and restructuring messy financial data using Pa
 - Applied .pivot_table() to aggregate budget trends across years.
 - Created line charts & bar plots with Matplotlib & Seaborn to visualize spending patterns.
 
-💡 How It Enhances My Portfolio: This project demonstrates my ability to clean, transform, and analyze real-world financial datasets, which is essential for roles in quantitative finance, investment research, and financial data science. It also highlights my data visualization skills, making complex trends easier to interpret.
+This project demonstrates my ability to clean, transform, and analyze real-world financial datasets, which is essential for roles in quantitative finance, investment research, and financial data science. It also highlights my data visualization skills, making complex trends easier to interpret.
 
 
 ___
