@@ -8,7 +8,7 @@ ___
 GitHub Portfolio & Streamlit App – Creating a GitHub repository to house my projects, starting with a basic Streamlit app featuring interactive data visualizations.
 Python & Data Science Projects – Exploring data wrangling, visualization, machine learning, and AI applications throughout the semester.
 
-📌 Featured Projects
+Featured Projects: 
 Tidy Data Project: Cleaning & Analyzing Federal R&D Spending
 
 📍 Repository: Tidy Data Project, https://github.com/passionhood/Hood-Python-Portfolio/tree/main/TidyData-Project-main 
