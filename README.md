@@ -10,6 +10,7 @@ Python & Data Science Projects – Exploring data wrangling, visualization, mach
 
 📌 Featured Projects
 1️⃣ Tidy Data Project: Cleaning & Analyzing Federal R&D Spending
+
 📍 Repository: Tidy Data Project, https://github.com/passionhood/Hood-Python-Portfolio/tree/main/TidyData-Project-main 
 
 📍 Project Overview:
