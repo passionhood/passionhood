@@ -7,6 +7,23 @@ ___
 ## Current Projects 🚀
 GitHub Portfolio & Streamlit App – Creating a GitHub repository to house my projects, starting with a basic Streamlit app featuring interactive data visualizations.
 Python & Data Science Projects – Exploring data wrangling, visualization, machine learning, and AI applications throughout the semester.
+
+📌 Featured Projects
+1️⃣ Tidy Data Project: Cleaning & Analyzing Federal R&D Spending
+📍 Repository: Tidy Data Project, https://github.com/passionhood/Hood-Python-Portfolio/tree/main/TidyData-Project-main 
+
+📍 Project Overview:
+This project focuses on cleaning and restructuring messy financial data using Pandas and Tidy Data Principles. The dataset tracks federal R&D spending across departments over time, originally structured in an untidy, wide format.
+
+📊 Key Features:
+
+- Used .melt() and .split() to reshape data into a long format.
+- Applied .pivot_table() to aggregate budget trends across years.
+- Created line charts & bar plots with Matplotlib & Seaborn to visualize spending patterns.
+
+💡 How It Enhances My Portfolio: This project demonstrates my ability to clean, transform, and analyze real-world financial datasets, which is essential for roles in quantitative finance, investment research, and financial data science. It also highlights my data visualization skills, making complex trends easier to interpret.
+
+
 ___
 
 ## Skills 🛠
