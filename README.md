@@ -7,7 +7,7 @@ I'm Passion Hood, a **Finance major** with a **Data Science minor** at the **Uni
 
 ## 🚀 Featured Projects
 
-### 📈 [Investment Portfolio Analyzer](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/PortfolioAnalyzer)
+### 📈 [Investment Portfolio Analyzer](https://hood-python-portfolio-gakbykrqbswuofpa7gnzef.streamlit.app/)
 An interactive Streamlit app for analyzing user-uploaded stock portfolios.
 
 - Fetches live stock prices and benchmarks performance against the S&P 500
@@ -17,7 +17,7 @@ An interactive Streamlit app for analyzing user-uploaded stock portfolios.
 
 ---
 
-### 🧠 [Named Entity Recognition (NER) App](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/NER_App)
+### 🧠 [Named Entity Recognition (NER) App](https://hood-python-portfolio-chfnvfg4lpz5zora763kvf.streamlit.app/)
 A Streamlit app that enables users to explore and customize Named Entity Recognition with spaCy.
 
 - Accepts `.txt` file uploads or direct text input
