@@ -39,7 +39,7 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 ## 🛠 Skills & Tools
 
 - **Languages**: Python, R, SQL  
-- **Frameworks & Libraries**: Pandas, NumPy, Seaborn, Matplotlib, scikit-learn, spaCy, NLTK  
+- **Frameworks & Libraries**: Pandas, NumPy, Seaborn, Matplotlib, spaCy, NLTK  
 - **Tech Stack**: Streamlit, Jupyter Notebook, Git, Linux, VS Code  
 - **Other**: Financial modeling, data wrangling, dashboarding, NLP basics
 
