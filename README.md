@@ -5,7 +5,7 @@ I'm Passion Hood, a **Finance major** with a **Data Science minor** at the **Uni
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📈 [Investment Portfolio Analyzer](https://hood-python-portfolio-gakbykrqbswuofpa7gnzef.streamlit.app/)
 An interactive Streamlit app for analyzing user-uploaded stock portfolios.
