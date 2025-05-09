@@ -56,8 +56,8 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 ## 📌 Pinned Repositories
 
-- [Investment Portfolio Analyzer](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/PortfolioAnalyzer)
-- [NER Streamlit App](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/NER_App)
+- [Investment Portfolio Analyzer](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/StreamlitAppFinal)
+- [NER Streamlit App](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/NERStreamlitApp)
 - [Tidy Data Project](https://github.com/passionhood/Hood-Python-Portfolio/tree/main/TidyData-Project-main)
 
 ---
