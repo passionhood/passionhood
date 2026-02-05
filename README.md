@@ -1,7 +1,7 @@
 
 # 👋 About Me
 
-I'm Passion Hood, a **Finance major** with a **Data Science minor** at the **University of Notre Dame**. I’m passionate about building tools that blend financial insight with data science—using Python, machine learning, and visualization to uncover insights and solve real-world problems.
+I'm Passion Hood, a **Finance major** with a **Data Science minor** at the **University of Notre Dame**. I’m passionate about building tools that blend financial insight with data science using Python, machine learning, and visualization to uncover insights and solve real-world problems.
 
 ---
 
