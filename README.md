@@ -4,9 +4,9 @@ I'm **Passion Hood**, a **Finance and Business Analytics major** with a **Data S
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🤖 [Investment Risk Analyzer - ML Streamlit App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) ⭐
+### [Investment Risk Analyzer - ML Streamlit App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) 
 An **advanced, production-ready machine learning web application** that enables users to analyze 30 years of financial market data and predict investment risk using supervised machine learning models.
 
 **Features:**
@@ -22,12 +22,12 @@ An **advanced, production-ready machine learning web application** that enables 
 
 ---
 
-### 💰 [Cryptocurrency Dashboard](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/basic_streamlit_app)
+### [Cryptocurrency Dashboard](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/basic_streamlit_app)
 A user-friendly cryptocurrency analysis tool for exploring real-time crypto market data with interactive filtering and visualization.
 
 **Features:**
 - Browse 100+ cryptocurrencies with real-time market data
-- Filter coins by market capitalization with dynamic range slider
+- Filter coins by market capitalization with a dynamic range slider
 - View top 10 cryptocurrencies by market cap with visualization
 - Explore price movements, volume, and supply metrics
 - Robust data cleaning and error handling
@@ -37,7 +37,7 @@ A user-friendly cryptocurrency analysis tool for exploring real-time crypto mark
 
 ---
 
-### 📈 [Investment Portfolio Analyzer](https://hood-python-portfolio-gakbykrqbswuofpa7gnzef.streamlit.app/)
+### [Investment Portfolio Analyzer](https://hood-python-portfolio-gakbykrqbswuofpa7gnzef.streamlit.app/)
 An interactive Streamlit app for analyzing user-uploaded stock portfolios.
 
 **Features:**
@@ -50,7 +50,7 @@ An interactive Streamlit app for analyzing user-uploaded stock portfolios.
 
 ---
 
-### 🏷️ [Named Entity Recognition (NER) App](https://hood-python-portfolio-chfnvfg4lpz5zora763kvf.streamlit.app/)
+### [Named Entity Recognition (NER) App](https://hood-python-portfolio-chfnvfg4lpz5zora763kvf.streamlit.app/)
 A Streamlit app that enables users to explore and customize Named Entity Recognition with spaCy.
 
 **Features:**
@@ -63,7 +63,7 @@ A Streamlit app that enables users to explore and customize Named Entity Recogni
 
 ---
 
-### 📊 [Tidy Data Project](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/TidyData-Project)
+### [Tidy Data Project](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/TidyData-Project)
 Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 **Features:**
@@ -76,7 +76,7 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 - **Languages:** Python, R, SQL  
 - **Frameworks & Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Plotly, spaCy, NLTK, scikit-learn  
@@ -87,7 +87,7 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 ---
 
-## 🎓 Portfolio Evolution
+## Portfolio Evolution
 
 ### Portfolio Update 1: Foundations
 - **Tidy Data Project:** Data cleaning, transformation, and exploratory analysis
@@ -105,7 +105,7 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Mastering end-to-end machine learning workflows from data to deployment
 - Building interactive Streamlit applications with real-world usability
@@ -116,7 +116,7 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 ---
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 - [Investment Risk Analyzer](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) ⭐
 - [Cryptocurrency Dashboard](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/basic_streamlit_app)
@@ -133,7 +133,7 @@ Cleaned and analyzed messy government budget data using Tidy Data principles.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionhood&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=passionhood&theme=highcontrast&show_icons=true&count_private=true)
