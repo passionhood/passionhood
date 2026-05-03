@@ -8,8 +8,8 @@ My work focuses on developing **interactive data applications** and applying bot
 
 ## Featured Projects
 
-### [Investor Persona Clustering App - Unsupervised ML](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) ⭐
-An interactive machine learning web application that uncovers hidden investor behavior profiles using **unsupervised learning techniques**.
+### [Investor Persona Clustering App - Unsupervised ML](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) 
+An interactive machine-learning web application that uncovers hidden investor behavioral profiles using **unsupervised learning techniques**.
 
 **Features:**
 - K-Means clustering to segment investors into behavior-based groups  
@@ -25,7 +25,7 @@ An interactive machine learning web application that uncovers hidden investor be
 ---
 
 ### [Investment Risk Analyzer - Supervised ML](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) 
-An advanced machine learning web application that analyzes financial market data and predicts investment risk using supervised models.
+An advanced machine-learning web application that analyzes financial market data and predicts investment risk using supervised learning models.
 
 **Features:**
 - Interactive dashboard with 11+ financial assets  
