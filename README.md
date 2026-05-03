@@ -1,39 +1,41 @@
 # 👋 About Me
 
-I'm **Passion Hood**, a **Finance and Business Analytics major** with a **Data Science minor** at the **University of Notre Dame**. I'm passionate about building tools that blend financial insight with data science using Python, machine learning, and visualization to uncover insights and solve real-world problems. By the end of this semester, I plan to become better at explaining and visualizing data concisely.
+I'm **Passion Hood**, a **Finance and Business Analytics major** with a **Data Science minor** at the **University of Notre Dame**. I'm passionate about building tools that combine financial insight with data science using Python, machine learning, and visualization to uncover patterns and support real-world decision-making.
+
+My work focuses on developing **interactive data applications** and applying both **supervised and unsupervised machine learning** to financial datasets.
 
 ---
 
 ## Featured Projects
 
-### [Investment Risk Analyzer - ML Streamlit App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) 
-An **advanced, production-ready machine learning web application** that enables users to analyze 30 years of financial market data and predict investment risk using supervised machine learning models.
+### [Investor Persona Clustering App - Unsupervised ML](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) ⭐
+An interactive machine learning web application that uncovers hidden investor behavior profiles using **unsupervised learning techniques**.
 
 **Features:**
-- **Dashboard:** Interactive visualization of 11+ financial assets (S&P 500, Nasdaq, tech stocks, commodities)
-- **Explore Data:** Statistical analysis, correlation matrices, and time-series visualizations
-- **Train Model:** Build and tune three ML models (Logistic Regression, Decision Tree, K-Nearest Neighbors)
-- **Predict:** Real-time risk predictions (High Risk/Low Risk) with class probabilities
-- **Advanced Metrics:** Accuracy, Precision, Recall, F1 Score, Confusion Matrices, ROC-AUC curves
-- **Hyperparameter Tuning:** Real-time feedback on model performance with adjustable parameters
+- K-Means clustering to segment investors into behavior-based groups  
+- Hierarchical clustering with dendrogram visualization  
+- PCA for dimensionality reduction and cluster visualization  
+- Adjustable model parameters (number of clusters, feature selection)  
+- Silhouette score and elbow plot for model evaluation  
+- Downloadable clustered datasets  
 
-**Tech Stack:** Streamlit, scikit-learn, Pandas, NumPy, Plotly, Matplotlib  
-**Deployment:** Streamlit Community Cloud
+**Tech Stack:** Streamlit, scikit-learn, Pandas, NumPy, Plotly, SciPy  
+**Focus:** Unsupervised learning, pattern discovery, interactive analytics  
 
 ---
 
-### [Cryptocurrency Dashboard](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/basic_streamlit_app)
-A user-friendly cryptocurrency analysis tool for exploring real-time crypto market data with interactive filtering and visualization.
+### [Investment Risk Analyzer - Supervised ML](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) 
+An advanced machine learning web application that analyzes financial market data and predicts investment risk using supervised models.
 
 **Features:**
-- Browse 100+ cryptocurrencies with real-time market data
-- Filter coins by market capitalization with a dynamic range slider
-- View top 10 cryptocurrencies by market cap with visualization
-- Explore price movements, volume, and supply metrics
-- Robust data cleaning and error handling
+- Interactive dashboard with 11+ financial assets  
+- Multiple ML models (Logistic Regression, Decision Tree, KNN)  
+- Hyperparameter tuning and real-time performance feedback  
+- Advanced evaluation metrics (accuracy, precision, recall, F1, ROC-AUC)  
+- Feature engineering (returns, volatility, risk classification)  
 
-**Tech Stack:** Streamlit, Pandas, Matplotlib  
-**Data:** Real cryptocurrency market data with 100+ coins
+**Tech Stack:** Streamlit, scikit-learn, Pandas, NumPy, Plotly, Matplotlib  
+**Focus:** Predictive modeling, supervised learning, model evaluation  
 
 ---
 
@@ -41,88 +43,94 @@ A user-friendly cryptocurrency analysis tool for exploring real-time crypto mark
 An interactive Streamlit app for analyzing user-uploaded stock portfolios.
 
 **Features:**
-- Fetches live stock prices and benchmarks performance against the S&P 500
-- Calculates Sharpe Ratio, portfolio volatility, and cumulative returns
-- Visualizes asset allocation and historical returns with dynamic charts
-- Designed for finance students and early investors seeking insight into their holdings
+- Fetches live stock prices and benchmarks against the S&P 500  
+- Calculates Sharpe Ratio, volatility, and cumulative returns  
+- Visualizes asset allocation and performance trends  
 
-**Tech Stack:** Streamlit, yfinance, Pandas, Plotly, NumPy
+**Tech Stack:** Streamlit, yfinance, Pandas, Plotly, NumPy  
 
 ---
 
-### [Named Entity Recognition (NER) App](https://hood-python-portfolio-chfnvfg4lpz5zora763kvf.streamlit.app/)
-A Streamlit app that enables users to explore and customize Named Entity Recognition with spaCy.
+### [Cryptocurrency Dashboard](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/basic_streamlit_app)
+A user-friendly tool for exploring cryptocurrency market data.
 
 **Features:**
-- Accepts `.txt` file uploads or direct text input
-- Supports custom entity rule creation using spaCy's `EntityRuler`
-- Displays entities using DisplaCy and outputs entity frequency tables
-- Includes exportable pattern files for reuse in NLP pipelines
+- Browse 100+ cryptocurrencies  
+- Filter by market cap  
+- Visualize top assets and market trends  
 
-**Tech Stack:** Streamlit, spaCy, DisplaCy, Pandas
+**Tech Stack:** Streamlit, Pandas, Matplotlib  
+
+---
+
+### [Named Entity Recognition (NER) App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/NER-App)
+A Streamlit app for exploring natural language processing using spaCy.
+
+**Features:**
+- Text input or file upload  
+- Custom entity rule creation  
+- Entity visualization and frequency analysis  
+
+**Tech Stack:** Streamlit, spaCy, Pandas  
 
 ---
 
 ### [Tidy Data Project](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/TidyData-Project)
-Cleaned and analyzed messy government budget data using Tidy Data principles.
+A data cleaning and transformation project applying tidy data principles.
 
 **Features:**
-- Used Pandas to reshape and aggregate multi-year R&D spending
-- Applied `melt()` and string operations for data transformation
-- Created visualizations using Seaborn and Matplotlib
-- Demonstrated strong data cleaning and exploratory analysis skills
+- Data reshaping using Pandas  
+- Exploratory analysis and visualization  
+- Structured dataset creation  
 
-**Tech Stack:** Pandas, Matplotlib, Seaborn, Jupyter Notebook
+**Tech Stack:** Pandas, Matplotlib, Seaborn  
 
 ---
 
 ## Skills & Tools
 
 - **Languages:** Python, R, SQL  
-- **Frameworks & Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Plotly, spaCy, NLTK, scikit-learn  
-- **Tech Stack:** Streamlit, Jupyter Notebook, Git, Linux, VS Code  
-- **ML & Data Science:** Machine learning models, hyperparameter tuning, data pipelines, feature engineering, model evaluation
-- **Finance & APIs:** yfinance, portfolio analysis, financial metrics, cryptocurrency data
-- **Other:** NLP basics, data visualization, dashboarding, financial modeling
+- **Libraries:** Pandas, NumPy, scikit-learn, Plotly, Matplotlib, Seaborn  
+- **Tools:** Streamlit, Jupyter Notebook, Git, VS Code, Linux  
+- **Machine Learning:** Supervised & Unsupervised Learning, Clustering, PCA, Model Evaluation  
+- **Finance:** Portfolio analysis, risk metrics, financial data modeling  
+- **Other:** Data visualization, dashboarding, basic NLP  
 
 ---
 
 ## Portfolio Evolution
 
-### Portfolio Update 1: Foundations
-- **Tidy Data Project:** Data cleaning, transformation, and exploratory analysis
+### Foundations
+- Data cleaning, transformation, and exploratory analysis  
 
-### Portfolio Update 2: Interactive Applications  
-- **Investment Portfolio Analyzer:** Live stock data, interactive UI, financial metrics
-- **Named Entity Recognition App:** NLP exploration, spaCy integration, custom rules
-- **Cryptocurrency Dashboard:** Real-time crypto analysis, data filtering, market visualization
+### Interactive Applications  
+- Portfolio analysis tools and dashboards  
+- NLP applications and data interfaces  
 
-### Portfolio Update 3: Advanced ML & Deployment ⭐
-- **Investment Risk Analyzer:** Complete ML workflow, 3 models, hyperparameter tuning, cloud deployment
-- **500+ lines** of fully commented, production-ready Python code
-- **Comprehensive metrics:** Confusion matrices, ROC curves, stratified sampling
-- **Live deployment** on Streamlit Community Cloud
+### Advanced Machine Learning & Deployment ⭐
+- Supervised ML (Investment Risk Analyzer)  
+- Unsupervised ML (Investor Persona Clustering App)  
+- Full end-to-end pipeline: data → model → deployment  
 
 ---
 
 ## Current Focus
 
-- Mastering end-to-end machine learning workflows from data to deployment
-- Building interactive Streamlit applications with real-world usability
-- Implementing advanced ML techniques (hyperparameter tuning, model evaluation, feature engineering)
-- Training predictive models for finance and risk analysis
-- Deploying applications to cloud platforms for public access
-- Integrating AI into financial decision-making workflows
+- Applying machine learning to financial datasets  
+- Building interactive data applications with Streamlit  
+- Exploring unsupervised learning and pattern discovery  
+- Improving model interpretability and visualization  
+- Deploying production-ready analytical tools  
 
 ---
 
 ## Pinned Repositories
 
-- [Investment Risk Analyzer](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp) ⭐
-- [Cryptocurrency Dashboard](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/basic_streamlit_app)
-- [Investment Portfolio Analyzer](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/Investment-Portfolio-Analyzer)
-- [Named Entity Recognition App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/NER-App)
-- [Tidy Data Project](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/TidyData-Project)
+- [Investor Persona Clustering App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) ⭐  
+- [Investment Risk Analyzer](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/MLStreamlitApp)  
+- [Investment Portfolio Analyzer](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/Investment-Portfolio-Analyzer)  
+- [Named Entity Recognition App](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/NER-App)  
+- [Tidy Data Project](https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/TidyData-Project)  
 
 ---
 
