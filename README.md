@@ -5,6 +5,16 @@ I'm **Passion Hood**, a **Finance and Business Analytics major** with a **Data S
 My work focuses on developing **interactive data applications** and applying both **supervised and unsupervised machine learning** to financial datasets.
 
 ---
+## Skills & Tools
+
+- **Languages:** Python, R, SQL  
+- **Libraries:** Pandas, NumPy, scikit-learn, Plotly, Matplotlib, Seaborn  
+- **Tools:** Streamlit, Jupyter Notebook, Git, VS Code, Linux  
+- **Machine Learning:** Supervised & Unsupervised Learning, Clustering, PCA, Model Evaluation  
+- **Finance:** Portfolio analysis, risk metrics, financial data modeling  
+- **Other:** Data visualization, dashboarding, basic NLP
+
+---
 
 ## Featured Projects
 
@@ -84,17 +94,6 @@ A data cleaning and transformation project applying tidy data principles.
 - Structured dataset creation  
 
 **Tech Stack:** Pandas, Matplotlib, Seaborn  
-
----
-
-## Skills & Tools
-
-- **Languages:** Python, R, SQL  
-- **Libraries:** Pandas, NumPy, scikit-learn, Plotly, Matplotlib, Seaborn  
-- **Tools:** Streamlit, Jupyter Notebook, Git, VS Code, Linux  
-- **Machine Learning:** Supervised & Unsupervised Learning, Clustering, PCA, Model Evaluation  
-- **Finance:** Portfolio analysis, risk metrics, financial data modeling  
-- **Other:** Data visualization, dashboarding, basic NLP  
 
 ---
 
