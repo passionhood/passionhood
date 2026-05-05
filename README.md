@@ -5,6 +5,15 @@ I am Passion Hood, a Finance and Business Analytics major with a Data Science mi
 My work emphasizes end-to-end development, from data preparation and modeling to deployment and user experience, with a strong focus on financial applications.
 
 ---
+## Skills
+
+- Programming: Python, R, SQL  
+- Libraries: Pandas, NumPy, scikit-learn, Plotly, Matplotlib, Seaborn  
+- Tools: Streamlit, Jupyter Notebook, Git, VS Code, Linux  
+- Machine Learning: Supervised and unsupervised learning, clustering, PCA, model evaluation  
+- Finance: Portfolio analysis, risk metrics, financial data modeling  
+- Other: Data visualization, dashboard development, basic natural language processing  
+---
 
 ## Selected Work
 
@@ -58,17 +67,6 @@ This project demonstrates predictive modeling, model evaluation, and the ability
 
 - Tidy Data Project  
   https://github.com/passionhood/Hood-Data-Science-Portfolio/tree/main/TidyData-Project
-
----
-
-## Skills
-
-- Programming: Python, R, SQL  
-- Libraries: Pandas, NumPy, scikit-learn, Plotly, Matplotlib, Seaborn  
-- Tools: Streamlit, Jupyter Notebook, Git, VS Code, Linux  
-- Machine Learning: Supervised and unsupervised learning, clustering, PCA, model evaluation  
-- Finance: Portfolio analysis, risk metrics, financial data modeling  
-- Other: Data visualization, dashboard development, basic natural language processing  
 
 ---
 
