@@ -97,6 +97,8 @@ Each project repository includes:
 ---
 
 ## GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionhood&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<!-- GitHub Stats -->
+![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=passionhood&show_icons=true&theme=highcontrast)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=passionhood&theme=highcontrast&show_icons=true&include_all_commits=true)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=passionhood&layout=compact&theme=highcontrast)
