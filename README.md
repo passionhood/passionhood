@@ -92,12 +92,10 @@ Each project repository includes:
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/passionhood/  
-Email: phood419@gmail.com  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PassionHood-blue?logo=linkedin)](https://www.linkedin.com/in/passionhood/)  
+ Email: [phood419@gmail.com](mailto:phood419@gmail.com)
 ---
 
 ## GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionhood)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=passionhood)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionhood&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=passionhood&theme=highcontrast&show_icons=true&count_private=true)
